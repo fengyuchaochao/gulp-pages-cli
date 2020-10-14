@@ -1,6 +1,6 @@
 # gulp-pages-cli
 
-gulp-pages-cli是一款基于gulp的脚手架，
+gulp-pages-cli是一款基于gulp的脚手架，用于初始化gulp项目结构
 
 
 ## 第一步: 全局安装
