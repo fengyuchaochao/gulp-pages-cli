@@ -1,12 +1,12 @@
 {
-  "name": "gulp-demo2",
+  "name": "gulp-pages-cli",
   "version": "1.0.0",
   "description": "",
-  "main": "gulp.config.js",
+  "main": "templates/gulp.config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "gulp-config-tool build",
-    "dev": "gulp-config-tool dev"
+    "build": "node_modules/.bin/gulp-config-tool build",
+    "dev": "node_modules/.bin/gulp-config-tool dev"
   },
   "author": "",
   "license": "ISC",
