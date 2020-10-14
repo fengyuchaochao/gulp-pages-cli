@@ -5,8 +5,8 @@
   "main": "templates/gulp.config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node_modules/.bin/gulp-config-tool build",
-    "dev": "node_modules/.bin/gulp-config-tool dev"
+    "build": "gulp-config-tool build",
+    "dev": "gulp-config-tool dev"
   },
   "author": "",
   "license": "ISC",
