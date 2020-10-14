@@ -18,7 +18,7 @@ gulp-page-cli // 执行该命令，生成初始化文件
 ## 第三步：安装gulp打包调试工具
 
 ```
-npm i gulp-config-tool --save-dev
+npm i gulp-config-tool --save-dev //该工具也基于gulp自己封装的打包调试工具
 ```
 然后修改package.json中scripts，添加build/dev命令
 ```
